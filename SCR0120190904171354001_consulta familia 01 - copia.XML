@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StockCountRequests xmlns="urn:wms-schema">
+<StockCountRequest>
+   <MassiveCount>1</MassiveCount>
+   <Site>Jane</Site>
+   <Filter>
+   <FltFamilyCode>01</FltFamilyCode>
+   </Filter>
+</StockCountRequest>
+</StockCountRequests>
